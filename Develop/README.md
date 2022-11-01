@@ -1,9 +1,9 @@
-# Bdkljfaf
+# HOMEWORK
 ![License Badge](https://img.shields.io/badge/License-MIT-orange)
 
 ## Description
 
-dsfasd
+This is a README generator
 
 ## Table of Contents
 
@@ -16,25 +16,25 @@ dsfasd
 
 ## Installation
 
-To install dependencies run the following command: f 
+To install dependencies run the following command: node index.js 
 
 ## Usage
 
-fdsa
+install npm
 
 ## License
     
-    This project is licensed under the MIT
+    This project is licensed under the MIT License
 
 ## Contributing
 
-
+branch off
 
 ## Tests
 
-To run tests run the following command: adsf
+To run tests run the following command: node index.js
 
 ## Questions
 
-If you have any questions about the project you can reach me here at: asdf. To view more of my work vist my Github:[dfa](https://github.com/dfa/).
+If you have any questions about the project you can reach me here at: html@github.com. To view more of my work vist my Github:[HTMLNOOB](https://github.com/HTMLNOOB/).
 
