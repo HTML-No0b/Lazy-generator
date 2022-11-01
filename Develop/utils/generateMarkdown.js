@@ -2,11 +2,8 @@
 // If there is no license, return an empty string
 function renderLicenseBadge(license) {
 if (license!=='None'){
-  return `![License Badge](https://img.shields.io/badge/License-${license}-orange)`,
-  `![License Badge](https://img.shields.io/badge/License-HBoost--Software--1.0-blue)`
-
-}
-return ''
+  return `![License Badge](https://img.shields.io/badge/License-${license}-orange)`}
+  return ''
 };
 
 // TODO: Create a function that returns the license link
@@ -24,7 +21,7 @@ function renderLicenseSection(license) {
   if (license!=='None'){
     return `## License
     
-    This project is licensed under the ${license}`
+    This project is licensed under the ${license} License`
   }
   return ''
 };
