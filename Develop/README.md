@@ -1,9 +1,9 @@
-# HOMEWORK
+# README generator
 ![License Badge](https://img.shields.io/badge/License-MIT-orange)
 
 ## Description
 
-This is a README generator
+This is a project that takes user data and fills in with the answers of the prompts
 
 ## Table of Contents
 
@@ -16,11 +16,11 @@ This is a README generator
 
 ## Installation
 
-To install dependencies run the following command: node index.js 
+To install dependencies run the following command: npm i inquirer 
 
 ## Usage
 
-install npm
+By installing inquirer
 
 ## License
     
@@ -28,7 +28,7 @@ install npm
 
 ## Contributing
 
-branch off
+By downloading the main code from Github and adding branches
 
 ## Tests
 
@@ -36,5 +36,5 @@ To run tests run the following command: node index.js
 
 ## Questions
 
-If you have any questions about the project you can reach me here at: html@github.com. To view more of my work vist my Github:[HTMLNOOB](https://github.com/HTMLNOOB/).
+If you have any questions about the project you can reach me here at: rmartin9797@gmail.com. To view more of my work vist my Github:[html-no0b](https://github.com/html-no0b/).
 
