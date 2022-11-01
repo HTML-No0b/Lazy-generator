@@ -4,33 +4,6 @@ const fs = require('fs');
 
 const path = require('path')
 const generateMarkdown = require('./utils/generateMarkdown')
-// const generateHTML = ({ name, location, github, linkedin , solved }) =>
-//     `<!DOCTYPE html>
-// <html lang="en">
-// <head>
-//   <meta charset="UTF-8">
-//   <meta http-equiv="X-UA-Compatible" content="ie=edge">
-//   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.5.0/css/bootstrap.min.css">
-//   <title>Document</title>
-// </head>
-// <body>
-//   <div class="jumbotron jumbotron-fluid">
-//   <div class="container">
-//     <div class="jumbotron">
-//     <h1 class="display-4">Hello, world my name is ${name}!</h1>
-//     <p class="lead">This is a simple hero unit, a simple jumbotron-style component for calling extra attention to featured content or information.</p>
-//     <hr class="my-4">
-//     <p>It uses utility classes for typography and spacing to space content out within the larger container.</p>
-//     <a class="btn btn-primary btn-lg" href="#" role="button">Learn more</a>
-//   </div>
-//   <div>
-//       <li class="list-group\-item">LinkedIn: ${linkedin}</li>
-    
-//   </div>
-// </div>
-// </body>
-// </html>
-// `;
 const questions = [
 
     {
@@ -45,12 +18,12 @@ const questions = [
         },
         {
             type: 'input',
-            message: 'Descrvibe your project',
+            message: 'Describe your project',
             name: 'description'
         },
         {
             type: 'input',
-            message: 'How does someone use this program?',
+            message: 'How does someone use your program?',
             name: 'usage'
         },
         {
@@ -71,13 +44,13 @@ const questions = [
         }, 
         {
             type: 'input',
-            message: 'Whats your email?',
+            message: 'What is your e-mail address?',
             name: 'email'
         },
 
         {
             type: 'input',
-            message: 'How can someone add to this project?',
+            message: 'How can someone add to your project?',
             name: 'contribute'
         },
     ]
