@@ -1,9 +1,9 @@
-# YES
-![License Badge](https://img.shields.io/badge/License-MIT-orange)
+# Destroy
+![License Badge](https://img.shields.io/badge/License-HBoost-Software-1.0-orange)
 
 ## Description
 
-YES
+help me please
 
 ## Table of Contents
 
@@ -16,11 +16,15 @@ YES
 
 ## Installation
 
-To install dependencies run the following command: YES 
+To install dependencies run the following command: yes 
 
 ## Usage
 
-YES
+yes
+
+## License
+    
+    This project is licensed under the HBoost-Software-1.0
 
 ## Contributing
 
@@ -28,9 +32,9 @@ yes
 
 ## Tests
 
-To run tests run the following command: YES
+To run tests run the following command: node index.js
 
 ## Questions
 
-If you have any questions about the project you can reach me here at: yes@yes. To view more of my work vist my Github:[undefined](https://github.com/undefined/).
+If you have any questions about the project you can reach me here at: html. To view more of my work vist my Github:[HTMLNOOB](https://github.com/HTMLNOOB/).
 

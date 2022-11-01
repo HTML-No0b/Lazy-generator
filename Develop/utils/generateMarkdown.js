@@ -2,7 +2,9 @@
 // If there is no license, return an empty string
 function renderLicenseBadge(license) {
 if (license!=='None'){
-  return `![License Badge](https://img.shields.io/badge/License-${license}-orange)`
+  return `![License Badge](https://img.shields.io/badge/License-${license}-orange)`,
+  `![License Badge](https://img.shields.io/badge/License-HBoost--Software--1.0-blue)`
+
 }
 return ''
 };
@@ -29,6 +31,7 @@ function renderLicenseSection(license) {
 
 // TODO: Create a function to generate markdown for README
 function generateMarkdown(data) {
+  //The return grabs from the title and licenses to display the users response.
   return `# ${data.title}
 ${renderLicenseBadge(data.license)}
 
